@@ -1,0 +1,14 @@
+{
+  "name": "mc-server",
+  "version": "1.0.0",
+  "description": "A easy way to run mc servers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrew baumes",
+  "license": "ISC",
+  "devDependencies": {
+    "electron-nightly": "^6.0.0-nightly.20190311"
+  }
+}
